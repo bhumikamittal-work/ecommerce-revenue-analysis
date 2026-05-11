@@ -21,11 +21,12 @@ The analysis was conducted using Python-based exploratory data analysis (EDA) te
 
 ## Key Business Insights
 
-- Revenue is concentrated among a limited number of high-performing products.
-- The United Kingdom contributes the majority of total revenue, indicating geographic concentration risk.
-- Monthly sales trends reveal strong seasonal fluctuations, with revenue peaking during the later months of the year.
-- A small group of high-value customers contributes a significant share of total revenue.
-- Product portfolio optimisation and customer retention strategies can support revenue growth.
+- The dataset contains over **541K transactions** across **38 countries**, providing large-scale transactional insights.
+- The **United Kingdom contributed over 85% of total revenue (£7M+)**, highlighting significant geographic concentration risk.
+- Revenue peaked during the later months of the year, with **November generating the highest monthly sales**.
+- A small group of high-value customers contributed disproportionately to overall revenue, indicating strong customer concentration.
+- Products such as **PAPER CRAFT, LITTLE BIRDIE** emerged as major revenue drivers, generating over **£160K in revenue**.
+- The analysis revealed opportunities for revenue optimisation through product prioritisation, customer retention, and international market expansion.
 
 ---
 
